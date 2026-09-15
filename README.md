@@ -23,7 +23,7 @@ nothing here installs itself silently.
 | Folder | Tag prefix | What it is |
 |---|---|---|
 | [`society-funds-manager/`](society-funds-manager/) | `funds-v` | Collections, expenses and member debts for a housing society treasurer. |
-| `jamaat-reader/` | `masjid-v` | Coming soon. |
+| [`jamaat-reader/`](jamaat-reader/) | `masjid-v` | Jamaat times for Bahadurabad, Tariq Road and adjoining Karachi areas, read straight off BJNT's printed board. |
 
 ## License
 
