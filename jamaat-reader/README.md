@@ -11,7 +11,8 @@ printed board, never calculated from a formula.
   silently moving on as if you'd prayed.
 - **Nearby** — every masjid in an area, sorted by how reachable its jamaat
   still is (leave now, in its grace window, comfortable, already finished),
-  by walking distance from your actual location when it's on.
+  by walking distance from your actual location when it's on. Search reaches
+  every masjid on the board, not just the area on screen.
 - **Saved masjids** — a six-column week grid per masjid, including Jumma,
   flagging any time that isn't on today's board rather than showing it as
   current.
